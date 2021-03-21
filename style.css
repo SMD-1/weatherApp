@@ -37,6 +37,7 @@ body{
     background: #000;
     color: #fff;
     font-size: 1.1rem;
+    cursor: pointer;
 }
 
 .result
